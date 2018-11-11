@@ -2,6 +2,7 @@
   "name": "test-deploy-github",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://greenferdiansyah.github.io/test-deploy-github/",
   "dependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
